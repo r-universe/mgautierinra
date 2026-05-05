@@ -5,3 +5,6 @@
 [submodule "poolfstat"]
 	path = poolfstat
 	url = https://github.com/cran/poolfstat
+[submodule "rehh.data"]
+	path = rehh.data
+	url = https://github.com/cran/rehh.data
